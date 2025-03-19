@@ -1,0 +1,2 @@
+select teste_pr
+from teste_pr
